@@ -1,0 +1,11 @@
+1.Created a SQLite database (sales_data.db) and a sales table.
+
+2.Inserted sample sales data for several products.
+
+3.Queried the database to calculate total quantity sold and total revenue for each product.
+
+4.Saved the results into sales_summary.csv.
+
+5.Plotted a simple revenue bar chart and saved it as sales_chart.png.
+
+6.Closed the database connection cleanly.
