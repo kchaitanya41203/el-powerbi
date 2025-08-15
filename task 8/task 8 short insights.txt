@@ -1,0 +1,7 @@
+1. West region consistently outperformed other regions in total sales.
+
+2. Technology category had the largest share of revenue, followed by Furniture.
+
+3. Sales increased steadily through the year, with a spike in December.
+
+4. The East region showed the lowest sales performance overall.
